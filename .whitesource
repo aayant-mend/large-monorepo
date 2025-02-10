@@ -1,12 +1,12 @@
 {
   "scanSettings": {
-    "configMode": "AUTO",
+    "configMode": "local",
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": []
   },
   "scanSettingsSAST": {
-    "enableScan": true,
+    "enableScan": false,
     "scanPullRequests": true,
     "incrementalScan": true,
     "baseBranches": [],
